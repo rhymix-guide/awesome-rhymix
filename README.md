@@ -17,6 +17,15 @@
 
 ---
 
+<!-- PR 필수 확인 사항
+!!! 디자인, 확장기능 추가는 GNU GPL 라이선스 필수 !!!
+디자인, 확장기능 자료의 소개를 추가하는 변경사항은
+반드시 PR 내용에 GNU GPL 라이선스 적용을 확인할 수 있는 링크 및 개발자 또는 판매자로부터 서면 확인한 내용을 첨부해야 합니다.
+-->
+
+> [!NOTE]
+> 디자인 및 확장기능은 유무료에 관계 없이 GNU GPL 라이선스가 명시되었거나 적용된 자료만 포함하였습니다.
+
 ## 디자인
 
 ### 레이아웃
@@ -30,7 +39,8 @@
 ### 모듈
 
 - [링크 프리뷰](https://xetown.com/download/1724355) — 위지윅 에디터에 URL을 붙여 넣으면 미리보기 카드 또는 동영상 등 Embed 코드로 변환해주는 기능
-- [IndexNow](https://xetown.com/download/1781819) — [IndexNow](https://www.indexnow.org/ko_kr/index) 프로토콜을 이용해 네이버, Bing(Microsoft) 등과 같은 검색엔진에 가장 빠르게 새 컨텐츠 생성을 알려주는 기능
+- [IndexNow](https://xetown.com/download/1781819) — [IndexNow 프로토콜](https://www.indexnow.org/ko_kr/index)을 이용해 네이버, Bing(Microsoft) 등과 같은 검색엔진에 가장 빠르게 새 컨텐츠 생성을 알려주는 기능
+- [제휴마케팅 링크 변환 모듈 (링크프라이스)](https://xetown.com/download/1196234) — 글 내용에서 링크를 자동으로 링크프라이스 제휴마케팅의 링크로 변환해주는 기능
 
 ### 애드온
 
