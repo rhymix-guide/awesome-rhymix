@@ -14,6 +14,7 @@
 
 - 💝 [FLEX 레이아웃](https://xetown.com/download/1455172) — 다크모드 지원를 지원하는 블로그 형식의 깔끔한 레이아웃 (snax [@calvinsnax](https://github.com/calvinsnax))
 - [VIVID 테마](https://xetown.com/thirdparties/1785062) — (유료) 다양한 구조의 레이아웃과 게시판 스킨, 회원 스킨 등을 포함하는 모바일 사용과 간소화된 UI를 제공하고 거의 전체 디자인을 다루는 레이아웃 (루키. [미리보기](https://uiui.io/vivid))
+- 💝 [라이믹스용 베이직 레이아웃](https://xetown.com/thirdparties/1773824) — (유료) 다양한 설정을 지원하는 깔끔한 디자인과 각종 부가 기능을 제공 ([미리보기](https://eond.com/el_basic))
 
 ### 스킨
 
@@ -44,6 +45,13 @@
 <!-- 유무료에 관계 없이 -->
 
 - 
+
+---
+
+## ⭐️ 유용한 링크
+
+- [공공기관 보안점검시 RXE 관련 팁](https://xetown.com/tips/1439985) — 공공기관인 공기업에서 라이믹스로 사이트를 운영할 때 보안취약점 점검 절차와 대응 방법에 대한 팁
+- [웹호스팅에서 에러 로그 직접 보는 법!](https://xetown.com/tips/1537809)
 
 ---
 
