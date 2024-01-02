@@ -12,7 +12,8 @@
 
 ### 레이아웃
 
-- 💝 [FLEX 레이아웃](https://xetown.com/download/1455172) — 다크모드 지원를 지원하는 블로그 형식의 깔끔한 레이아웃
+- 💝 [FLEX 레이아웃](https://xetown.com/download/1455172) — 다크모드 지원를 지원하는 블로그 형식의 깔끔한 레이아웃 (snax @calvinsnax)
+- [VIVID 테마](https://xetown.com/thirdparties/1785062) — (유료) 다양한 구조의 레이아웃과 게시판 스킨, 회원 스킨 등을 포함하는 모바일 사용과 간소화된 UI를 제공하고 거의 전체 디자인을 다루는 레이아웃 (루키. [미리보기](https://uiui.io/vivid))
 
 ### 스킨
 
@@ -22,15 +23,27 @@
 
 ### 모듈
 
-- 💝 [링크 프리뷰](https://xetown.com/download/1724355) — 위지윅 에디터에 URL을 붙여 넣으면 미리보기 카드 또는 동영상 등 Embed 코드로 변환해주는 기능
-- 💝 [IndexNow](https://xetown.com/download/1781819) — [IndexNow 프로토콜](https://www.indexnow.org/ko_kr/index)을 이용해 네이버, Bing(Microsoft) 등과 같은 검색엔진에 가장 빠르게 새 컨텐츠 생성을 알려주는 기능
-- 💝 [제휴마케팅 링크 변환 모듈 (링크프라이스)](https://xetown.com/download/1196234) — 글 내용에서 링크를 자동으로 링크프라이스 제휴마케팅의 링크로 변환해주는 기능
+- 💝 [링크 프리뷰](https://xetown.com/download/1724355) — 위지윅 에디터에 URL을 붙여 넣으면 미리보기 카드와 동영상 삽입으로 변환해주는 기능 (윤삼 @cydemo)
+- 💝 [IndexNow](https://xetown.com/download/1781819) — [IndexNow 프로토콜](https://www.indexnow.org/ko_kr/index)을 이용해 네이버, Bing(Microsoft)과 같은 검색엔진에 가장 빠르게 컨텐츠 생성과 변경을 알려주는 기능 (기진곰 @kijin)
+- 💝 [제휴마케팅 링크 변환 모듈 (링크프라이스)](https://xetown.com/download/1196234) — 글 내용에서 링크를 자동으로 링크프라이스 제휴마케팅의 링크로 변환해주는 기능 (오토씽)
 
 ### 애드온
 
-- 💝 [사용자 지정 lang 변경 애드온](https://xetown.com/download/1730001) — 코드를 변경하지 않고도 간단하게 화면에 표시되는 주요 단어(다국어 기능으로 출력하는 항목)를 변경할 수 있는 기능
+- 💝 [사용자 지정 lang 변경 애드온](https://xetown.com/download/1730001) — 코드를 변경하지 않고도 간단하게 화면에 표시되는 주요 단어(다국어 기능으로 출력하는 항목)를 변경할 수 있는 기능 (톰캣)
+- 💝 [게시물 관리 애드온](https://xetown.com/download/1545419) — 게시판 글의 카테고리, 태그, 공개 설정, 등록 날짜와 게시자 정보까지 다양한 속성과 설정 변경이 손쉬운 관리 기능을 제공 (윤삼 @cydemo)
 
 ### 위젯
+
+- 💝 [프로필 위젯](https://xetown.com/download/1412177) — 게시판 글 하단에 추가하면 글 작성자의 정보와 작성 글, 댓글 목록 등의 활동 정보를 표시해주는 위젯 (윤삼 @cydemo)
+- 💝 [폼 위젯](https://xetown.com/download/1359990) — 문의, 상담신청 등 작은 폼을 이용해 빠르게 간편하게 게시판에 글로 작성해주는 위젯 (윤삼 @cydemo)
+
+---
+
+## 🏆 서드파티 제작자
+
+<!-- 유무료에 관계 없이 -->
+
+- 
 
 ---
 
