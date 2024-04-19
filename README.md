@@ -66,6 +66,7 @@
 
 라이믹스의 새로운 기능이나 개선 사항에 대한 내용을 참고할 수 있다.
 
+- [PHP 최소 지원 버전을 7.4로 변경 #2273](https://github.com/rhymix/rhymix/issues/2273) — 2014년 하반기부터 변경되는 라이믹스의 PHP 최소 지원 버전의 변경 예고
 - **v2.1.8** [템플릿 언어 v2 #2200](https://github.com/rhymix/rhymix/pull/2200) — Blade 문법 기반의 템플릿 엔진 추가
 - **v2.1** [공식 지원 PHP 버전 및 브라우저 범위 조정 #1562](https://github.com/rhymix/rhymix/issues/1562) — 라이믹스 v2.1부터 적용된 PHP 및 브라우저 지원 범위
 - **v2.0** [다크모드 감지 및 설정을 위한 rx_color_scheme 쿠키값의 표준화 #1482](https://github.com/rhymix/rhymix/pull/1482) — 방문자의 다크모드 설정을 감지하고 설정을 저장하는 쿠키
