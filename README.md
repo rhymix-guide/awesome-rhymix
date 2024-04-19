@@ -28,6 +28,7 @@
 - 💝 [링크 프리뷰](https://xetown.com/download/1724355) — 위지윅 에디터에 URL을 붙여 넣으면 미리보기 카드와 동영상 삽입으로 변환해주는 기능 (윤삼 [@cydemo](https://github.com/cydemo))
 - 💝 [IndexNow](https://xetown.com/download/1781819) — [IndexNow 프로토콜](https://www.indexnow.org/ko_kr/index)을 이용해 네이버, Bing(Microsoft)과 같은 검색엔진에 가장 빠르게 컨텐츠 생성과 변경을 알려주는 기능 (기진곰 [@kijin](https://github.com/kijin))
 - 💝 [제휴마케팅 링크 변환 모듈 (링크프라이스)](https://xetown.com/download/1196234) — 글 내용에서 링크를 자동으로 링크프라이스 제휴마케팅의 링크로 변환해주는 기능 (오토씽)
+- 💝 [마이로그](https://xetown.com/download/1816803) — 회원의 공개정보와 작성한 글과 댓글 이력을 볼 수 있는 회원 프로필 페이지를 제공하는 모듈 ([트레디아](https://tradia.me/))
 
 ### 애드온
 
