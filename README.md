@@ -13,7 +13,7 @@
 ### 레이아웃
 
 - 💝 [FLEX 레이아웃](https://xetown.com/download/1455172) — 다크모드 지원를 지원하는 블로그 형식의 깔끔한 레이아웃 (snax [@calvinsnax](https://github.com/calvinsnax))
-- [VIVID 테마](https://xetown.com/thirdparties/1785062) — (유료) 다양한 구조의 레이아웃과 게시판 스킨, 회원 스킨 등을 포함하는 모바일 사용과 간소화된 UI를 제공하고 거의 전체 디자인을 다루는 레이아웃 (루키. [미리보기](https://uiui.io/vivid))
+- [VIVID RE:MASTER 테마](https://xetown.com/thirdparties/1858297) — (유료) 다양한 구조의 레이아웃과 게시판 스킨, 회원 스킨 등을 포함하는 모바일 사용과 간소화된 UI를 제공하고 거의 전체 디자인을 다루는 레이아웃 (루키. [미리보기](https://uiui.io/vivid))
 - 💝 [라이믹스용 베이직 레이아웃](https://xetown.com/thirdparties/1773824) — (유료) 다양한 설정을 지원하는 깔끔한 디자인과 각종 부가 기능을 제공 ([미리보기](https://eond.com/el_basic))
 - 💝 [OrangeDay 테마](https://xetown.com/download/1817419) — 블로그 형식의 레이아웃과 게시판, 회원, 통합검색, 메시지, 위젯 스킨을 포함하는 테마 ([미리보기](https://www.orangeday.kr)) [@OrangeDayCom](https://github.com/OrangeDayCom)
 
