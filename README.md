@@ -30,11 +30,15 @@
 - 💝 [IndexNow](https://rhymix.org/pds/1781819) — [IndexNow 프로토콜](https://www.indexnow.org/ko_kr/index)을 이용해 네이버, Bing(Microsoft)과 같은 검색엔진에 가장 빠르게 컨텐츠 생성과 변경을 알려주는 기능 (기진곰 [@kijin](https://github.com/kijin))
 - 💝 [제휴마케팅 링크 변환 모듈 (링크프라이스)](https://rhymix.org/pds/1196234) — 글 내용에서 링크를 자동으로 링크프라이스 제휴마케팅의 링크로 변환해주는 기능 (오토씽)
 - 💝 [마이로그](https://rhymix.org/pds/1816803) — 회원의 공개정보와 작성한 글과 댓글 이력을 볼 수 있는 회원 프로필 페이지를 제공하는 모듈 ([트레디아](https://tradia.me/))
+- 💝 [devtool](https://rhymix.org/pds/1928323) — 모듈의 스키마, 쿼리, 액션 등을 UI로 간편하게 수정하고 생성할 수 있는 라이믹스 개발 도구 (리버스 [@Waterticket](https://github.com/Waterticket/rx-module-devtool))
+- 💝 [팝업 매니저](https://rhymix.org/pds/1927053) — 팝업 배너를 다양하게 설정할 수 있는 모듈 (딱따고기)
+- 💝 [자동 다국어 처리](https://rhymix.org/pds/1927300) — 문서(글)를 AI를 이용해 자동으로 다국어로 번역해주는 기능 (딱따고기)
 
 ### 애드온
 
 - 💝 [사용자 지정 lang 변경 애드온](https://rhymix.org/pds/1730001) — 코드를 변경하지 않고도 간단하게 화면에 표시되는 주요 단어(다국어 기능으로 출력하는 항목)를 변경할 수 있는 기능 (톰캣)
 - 💝 [게시물 관리 애드온](https://rhymix.org/pds/1545419) — 게시판 글의 카테고리, 태그, 공개 설정, 등록 날짜와 게시자 정보까지 다양한 속성과 설정 변경이 손쉬운 관리 기능을 제공 (윤삼 [@cydemo](https://github.com/cydemo))
+- 💝 [SEO JSON-LD](https://rhymix.org/pds/1927211) — 라이믹스의 기본 SEO 지원에 더해 JSON-LD 로 SEO 향상 (딱따고기)
 
 ### 위젯
 
@@ -55,6 +59,7 @@
 
 - [공공기관 보안점검시 RXE 관련 팁](https://rhymix.org/tip/1439985) — 공공기관이나 공기업에서 라이믹스로 사이트를 운영할 때 보안취약점 점검 절차와 대응 방법에 대한 팁
 - [웹호스팅에서 에러 로그 직접 보는 법!](https://rhymix.org/tip/1537809)
+- [라이믹스 모듈 생성기](https://www.poesis.dev/tools/rxmodulegen)
 
 ---
 
