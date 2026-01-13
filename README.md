@@ -71,7 +71,7 @@
 
 라이믹스의 새로운 기능이나 개선 사항에 대한 내용을 참고할 수 있다.
 
-- [PHP 최소 지원 버전을 7.4로 변경 #2273](https://github.com/rhymix/rhymix/issues/2273) — 2014년 하반기부터 변경되는 라이믹스의 PHP 최소 지원 버전의 변경 예고
+- [PHP 최소 지원 버전을 7.4로 변경 #2273](https://github.com/rhymix/rhymix/issues/2273) — 2024년 하반기부터 변경되는 라이믹스의 PHP 최소 지원 버전의 변경 예고
 - **v2.2** [Module 모듈 리팩토링](https://github.com/rhymix/rhymix/pull/2647)
 - **v2.2** [다국어 문서 기능 제거](https://github.com/rhymix/rhymix/pull/2533) — 문서(게시판 글)의 다국어 지원 기능을 제거
 - **v2.1.8** [템플릿 언어 v2 #2200](https://github.com/rhymix/rhymix/pull/2200) — Blade 문법 기반의 템플릿 엔진 추가
